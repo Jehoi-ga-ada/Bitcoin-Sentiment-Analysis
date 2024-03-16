@@ -22,7 +22,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/bitcoin-sentiment-analysis.git
+   git clone https://github.com/Jehoi-ga-ada/Bitcoin-Sentiment-Analysis.git
    ```
 
 ## Usage
