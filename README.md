@@ -1,12 +1,12 @@
-# Bitcoin Sentiment Analysis
+# Bitcoin Sentiment Analysis 📈
 
 This repository contains code for sentiment analysis of Bitcoin-related text data. The purpose of this project is to analyze the sentiment expressed in various sources such as news articles, social media posts, or forums, and understand the public sentiment towards Bitcoin. 
 
-## Overview
+## Overview 🌐
 
 Bitcoin, as a leading cryptocurrency, attracts significant attention from both investors and enthusiasts. Understanding the sentiment surrounding Bitcoin can provide valuable insights for traders, researchers, and policymakers. This sentiment analysis project aims to gauge the sentiment of public discourse around Bitcoin by analyzing textual data from diverse sources.
 
-## Features
+## Features ✨
 
 - **Data Collection**: The repository provides tools and scripts to collect textual data related to Bitcoin from Twitter.
   
@@ -16,7 +16,7 @@ Bitcoin, as a leading cryptocurrency, attracts significant attention from both i
 
 - **Visualization**: Tools for visualizing sentiment trends over time and comparing sentiment across different sources are included. Visualizations can help users understand the dynamics of Bitcoin sentiment.
 
-## Setup
+## Setup ⚙️
 
 To set up the project environment, follow these steps:
 
@@ -25,33 +25,29 @@ To set up the project environment, follow these steps:
    git clone https://github.com/Jehoi-ga-ada/Bitcoin-Sentiment-Analysis.git
    ```
 
-## Usage
+## Usage 🖥️
 
-1. Data Collection:
+1. **Data Collection**:
    Use the provided scripts to collect data from various sources. Customize the scripts according to your requirements, such as specifying keywords or time periods.
 
-2. Preprocessing:
+2. **Preprocessing**:
    Preprocess the collected data using the preprocessing scripts. Adjust preprocessing steps based on the nature of the textual data.
 
-3. Sentiment Analysis:
+3. **Sentiment Analysis**:
    Apply different sentiment analysis models to the preprocessed data. Experiment with various models and parameters to achieve optimal results.
 
-4. Visualization:
+4. **Visualization**:
    Utilize the visualization tools to explore sentiment trends and patterns in the Bitcoin-related text data.
 
-## Contributors
+## Contributors 👥
 
 - Axel Nino Nakata
 - Aretha Natalova Wahyudi
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
+## Acknowledgements 🙏
 
 Special thanks to [HuggingFace](https://huggingface.co/) for providing language models and inspiration for this project.
 
-## Feedback
+## Feedback 📝
 
 For any questions, feedback, or contributions, please contact the repository maintainers or open an issue on GitHub. We welcome your input to improve this project.
