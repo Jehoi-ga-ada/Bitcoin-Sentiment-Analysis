@@ -12,7 +12,9 @@ Bitcoin, as a leading cryptocurrency, attracts significant attention from both i
   
 - **Preprocessing**: The collected textual data undergoes preprocessing steps including tokenization, removal of stop words, and stemming to prepare it for sentiment analysis.
 
-- **Sentiment Analysis Models**: The repository implements different sentiment analysis models such as Bag-of-Words, Word Embeddings, and Transformer-based models (e.g., BERT) to analyze the sentiment of the Bitcoin-related text data.
+- **Sentiment Analysis Models**: The repository implements different sentiment analysis models such as Bag-of-Words, Word Embeddings, and Transformer-based models (e.g., BERT) to analyze the sentiment of the Bitcoin-related text data. These models are thoroughly tested and compared to identify the most effective approach for sentiment analysis.
+
+- **Model Testing and Comparison**: Various machine learning and deep learning models including MultinomialNB, LinearSVC, RandomForestClassifier, XGBClassifier, and GradientBoostingClassifier are tested and compared. The performance metrics such as accuracy, precision, recall, and F1-score are evaluated to determine the best model for Bitcoin sentiment analysis.
 
 - **Visualization**: Tools for visualizing sentiment trends over time and comparing sentiment across different sources are included. Visualizations can help users understand the dynamics of Bitcoin sentiment.
 
